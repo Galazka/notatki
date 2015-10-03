@@ -10,3 +10,11 @@ TODO:
   - [ ] Emacs
   - [ ] Vim
 1. [ ] [ProGit Book](https://git-scm.com/book/en/v2)
+
+## Programy w C
+
+```c
+int main() {
+  printf("hello world\n");
+}
+```
